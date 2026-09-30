@@ -1,29 +1,33 @@
 # Hi, I'm Isabel 👋
 
-I'm a Computer Engineering graduate interested in building practical systems that combine software, data and hardware.
+I'm a Computer Engineering graduate with experience across data analytics, software development, embedded systems and IoT.
 
-My experience includes embedded systems and IoT, backend development, data analytics and applied machine learning.
+I enjoy working on practical problems where software, data and engineering come together. My background includes building dashboards and analytical tools for business teams, developing backend APIs, working with embedded hardware, and applying machine learning to real-world projects.
 
-## What I'm working on
+I'm currently building a stronger project portfolio as I explore freelance, contract and project-based opportunities across data, software and technology.
 
-- Building projects around data, IoT and software systems
-- Improving my skills in data engineering and cloud technologies
-- Looking for freelance, contract and project-based opportunities
+## What I work with
 
-## Featured project
+**Data & Analytics:** Python, SQL, Power BI, Excel, Mixpanel, Pandas, NumPy, Scikit-learn  
+**Software & Development:** Java, C, C++, PHP, Dart, Flutter, HTML, CSS, Git, GitHub  
+**Engineering & IoT:** ESP32, Arduino, embedded systems, sensors, PCB design  
+**Cloud & Platforms:** Microsoft Azure, MySQL, Jupyter Notebook
+
+## Areas I'm developing further
+
+- Data engineering and automated pipelines
+- Cloud-based systems
+- Applied machine learning
+- IoT and connected devices
+- Backend and API development
+
+## Selected work
 
 ### Solar-Powered IoT Air Quality Monitoring System
 
-Designed and built an IoT air quality monitoring system using an ESP32, environmental sensors and a custom PCB. The project included embedded firmware, PHP/MySQL data storage, web and Flutter interfaces, solar power and a Random Forest model for AQI prediction.
+A Computer Engineering capstone that combined a custom PCB, ESP32 firmware, environmental sensors, PHP/MySQL data storage, web and Flutter interfaces, solar power and a Random Forest model for AQI prediction.
 
 [View the project](https://github.com/isabel2025/solar-iot-air-quality-monitor)
-
-## Tools I use
-
-**Programming:** Python, Java, C, C++, PHP, Dart, SQL  
-**Data:** Power BI, Pandas, NumPy, Scikit-learn, Mixpanel  
-**Engineering:** ESP32, Arduino, IoT, embedded systems, PCB design  
-**Cloud & Development:** Microsoft Azure, Git, GitHub, MySQL, Flutter
 
 ## Languages
 
