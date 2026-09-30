@@ -1,4 +1,4 @@
-# Hi, I'm Isabel 👋
+# Hi, I'm Isabel!
 
 I'm a Computer Engineering graduate with experience in data analytics, software development and IoT.
 
